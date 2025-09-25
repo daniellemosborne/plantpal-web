@@ -396,7 +396,7 @@ body::before {
 }
 
 .info-content {
-  max-height: 200px;
+  height: 200px;
   background-color: #f7f5eb;
   margin: 5px;
   display: flex;
