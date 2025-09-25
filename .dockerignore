@@ -1,0 +1,12 @@
+.git
+node_modules
+venv
+venv310
+.venv
+__pycache__
+*.pyc
+exported_savedmodel
+public/web_model
+model/*.h5
+model/*.keras
+dist
