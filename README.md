@@ -16,4 +16,4 @@ Plant Pal is a full-stack image classification app:
 - Clean, responsive UI with drag-and-drop uploads and sample image.
 
 ### Tech
-React, TypeScript, Vite, Flask, TensorFlow/Keras, Python, Docker, Cloud Run, Google Cloud Storage, Vercel.
+React, TypeScript, Vite, Flask, TensorFlow/Keras, Python, Docker, Cloud Run, Vercel.
